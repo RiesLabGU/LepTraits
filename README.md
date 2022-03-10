@@ -7,18 +7,18 @@ When using this dataset in your research, please cite the original manuscript as
 The repository follows a simple directory structure in order to provide data to end-users. The directories and their contents are as follows:
 ```
 LepTraits
-│   README.md
-│
+│   README.md         # This document.
+│   Preprint.pdf      # Pre-print of the data paper.
 └───consensus
 │   │   consensus.csv # Species-level consensus traits.
 │ 
 │   
 └───misc
-|   │   figures.r # R code used to generate figures for the data paper.
+|   │   figures.r     # R code used to generate figures for the data paper.
 |   
 │ 
 └───records
-|   │   records.csv # Record-level traits.
+|   │   records.csv   # Record-level traits.
 |   
 │   
 └───resources
