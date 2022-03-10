@@ -10,19 +10,19 @@ LepTraits
 │   README.md
 │
 └───consensus
-│   │   consensus.csv
+│   │   consensus.csv # Species-level consensus traits.
 │ 
 │   
 └───misc
-|   │   figures.r
+|   │   figures.r # R code used to generate figures for the data paper.
 |   
 │ 
 └───records
-|   │   records.csv
+|   │   records.csv # Record-level traits.
 |   
 │   
 └───resources
-    │   resources.csv
+    │   resources.csv # Information regarding resources from which records were extracted.
 
 ```
 
