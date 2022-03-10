@@ -10,20 +10,20 @@ LepTraits
 │   README.md
 │
 └───consensus
-│   │   file011.txt
-│   │   file012.txt
+│   │   consensus.csv
+│ 
 │   
-└───resources
-    │   file021.txt
-    │   file022.txt
+└───misc
+|   │   figures.r
+|   
 │ 
 └───records
-    │   file021.txt
-    │   file022.txt
+|   │   records.csv
+|   
 │   
 └───resources
-    │   file021.txt
-    │   file022.txt
+    │   resources.csv
+
 ```
 
 We envision this project evolving over time. Please check back often for smaller updates and notifications.
