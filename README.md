@@ -9,16 +9,19 @@ The repository follows a simple directory structure in order to provide data to 
 LepTraits
 │   README.md
 │
-└───folder1
+└───consensus
 │   │   file011.txt
 │   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
 │   
-└───folder2
+└───resources
+    │   file021.txt
+    │   file022.txt
+│ 
+└───records
+    │   file021.txt
+    │   file022.txt
+│   
+└───resources
     │   file021.txt
     │   file022.txt
 ```
