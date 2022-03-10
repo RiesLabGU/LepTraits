@@ -4,5 +4,24 @@ This repository contains the most recently updated trait dataset for LepTraits: 
 
 When using this dataset in your research, please cite the original manuscript as follows:
 
+The repository follows a simple directory structure in order to provide data to end-users. The directories and their contents are as follows:
+```
+LepTraits
+│   README.md
+│
+└───folder1
+│   │   file011.txt
+│   │   file012.txt
+│   │
+│   └───subfolder1
+│       │   file111.txt
+│       │   file112.txt
+│       │   ...
+│   
+└───folder2
+    │   file021.txt
+    │   file022.txt
+```
+
 We envision this project evolving over time. Please check back often for smaller updates and notifications.
  
