@@ -17,8 +17,11 @@ LepTraits
 │   
 └───misc
 |   │   figures.r     # R code used to generate figures for the data paper.
-|   
-│ 
+|   └───miscData      # .csv files used to create figures for the manuscript
+│       | boke_data.csv
+|       | name_data.csv
+|       | record_data.csv
+|
 └───records
 |   │   records.csv   # Record-level traits.
 |   |   habitat_recordKey.csv # A key for the codes utilized in habitat affinity scoring.
