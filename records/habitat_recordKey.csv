@@ -1,0 +1,73 @@
+Habitat category,Atomization code,Count of code,Categorization,Categorization description
+Canopy,CMEO,2,Canopy generalist,"Closed, mixed, open or forest edge canopy"
+Canopy,CMO,341,Canopy generalist,"Closed, mixed, open or forest edge canopy"
+Canopy,CMOE,7,Canopy generalist,"Closed, mixed, open or forest edge canopy"
+Canopy,MCO,4,Canopy generalist,"Closed, mixed, open or forest edge canopy"
+Canopy,MCUO,1,Canopy generalist,"Closed, mixed, open or forest edge canopy"
+Canopy,MOC,1,Canopy generalist,"Closed, mixed, open or forest edge canopy"
+Canopy,OMC,598,Canopy generalist,"Closed, mixed, open or forest edge canopy"
+Canopy,OMCE,351,Canopy generalist,"Closed, mixed, open or forest edge canopy"
+Canopy,C,4775,Closed canopy,Associated with closed canopy
+Canopy,CE,736,Closed canopy,Associated with closed canopy
+Canopy,CU,41,Closed canopy,Associated with closed canopy
+Canopy,EC,1,Closed canopy,Associated with closed canopy
+Canopy,CO,131,Edge-associated,Found near edges or the combination of open and closed canopy
+Canopy,COE,273,Edge-associated,Found near edges or the combination of open and closed canopy
+Canopy,COU,5,Edge-associated,Found near edges or the combination of open and closed canopy
+Canopy,E,469,Edge-associated,Found near edges or the combination of open and closed canopy
+Canopy,OC,10,Edge-associated,Found near edges or the combination of open and closed canopy
+Canopy,OEC,2,Edge-associated,Found near edges or the combination of open and closed canopy
+Canopy,CM,520,Mixed canopy (closed affinity),"Closed, mixed and/or forest edge"
+Canopy,CME,28,Mixed canopy (closed affinity),"Closed, mixed and/or forest edge"
+Canopy,EM,3,Mixed canopy (closed affinity),"Closed, mixed and/or forest edge"
+Canopy,MC,434,Mixed canopy (closed affinity),"Closed, mixed and/or forest edge"
+Canopy,MCE,188,Mixed canopy (closed affinity),"Closed, mixed and/or forest edge"
+Canopy,MCU,186,Mixed canopy (closed affinity),"Closed, mixed and/or forest edge"
+Canopy,MEO,1,Mixed canopy (open affinity),"Open, mixed and/or forest edge"
+Canopy,MO,410,Mixed canopy (open affinity),"Open, mixed and/or forest edge"
+Canopy,MOE,39,Mixed canopy (open affinity),"Open, mixed and/or forest edge"
+Canopy,MOU,236,Mixed canopy (open affinity),"Open, mixed and/or forest edge"
+Canopy,MOUE,1,Mixed canopy (open affinity),"Open, mixed and/or forest edge"
+Canopy,OE,790,Mixed canopy (open affinity),"Open, mixed and/or forest edge"
+Canopy,OEU,3,Mixed canopy (open affinity),"Open, mixed and/or forest edge"
+Canopy,OM,1572,Mixed canopy (open affinity),"Open, mixed and/or forest edge"
+Canopy,OME,478,Mixed canopy (open affinity),"Open, mixed and/or forest edge"
+Canopy,OMU,75,Mixed canopy (open affinity),"Open, mixed and/or forest edge"
+Canopy,O,3107,Open canopy,Associated with open canopy
+Canopy,M,638,Semi-open canopy,"Woodland or partially open canopy, can include woodland edges"
+Canopy,ME,76,Semi-open canopy,"Woodland or partially open canopy, can include woodland edges"
+Canopy,NA,109,Code not clear,"Code unknown, needs further investigation in original source"
+Canopy,U,4048,Unspecified,No information on canopy given in the source's habitat description
+Edge,NY,229,Both,Seen both near and away from forest edges
+Edge,YN,379,Both,Seen both near and away from forest edges
+Edge,E,1,Edge-associated,Some association with forest edges
+Edge,UY,358,Edge-associated,Some association with forest edges (or neutral)
+Edge,Y,3664,Edge-associated,Some association with forest edges
+Edge,YU,115,Edge-associated,Some association with forest edges (or neutral)
+Edge,YUY,2,Edge-associated,Some association with forest edges (or neutral)
+Edge,N,912,Edge-avoidant,Evidence of forest edge avoidance
+Edge,NU,357,Edge-avoidant,Evidence of forest edge avoidance (or neutral)
+Edge,NA,34,Code not clear,"Code unknown, needs further investigation in original source"
+Edge,U,17300,Unspecified,No information on forest edge associations given in the source's habitat description
+Disturbance,NY,131,Both,Known in both disturbed and undisturbed habitat
+Disturbance,YN,184,Both,Known in both disturbed and undisturbed habitat
+Disturbance,D,9,Disturbance affinity,Has some affinity for disturbed habitat
+Disturbance,UD,4,Disturbance affinity,Has some affinity for disturbed habitat
+Disturbance,UY,846,Disturbance affinity,Has some affinity for disturbed habitat
+Disturbance,Y,1017,Disturbance affinity,Has some affinity for disturbed habitat
+Disturbance,YU,79,Disturbance affinity,Has some affinity for disturbed habitat
+Disturbance,N,499,Disturbance avoidant,Record indicates some disturbance avoidance
+Disturbance,NU,47,Disturbance avoidant,Record indicates some disturbance avoidance
+Disturbance,UN,2,Disturbance avoidant,Record indicates some disturbance avoidance
+Disturbance,0,1002,Unspecified,No information about disturbance associations
+Disturbance,U,8690,Unspecified,No information about disturbance associations
+Moisture,DW,205,Both,Description indicated association with both wet and dry habitat
+Moisture,WD,191,Both,Description indicated association with both wet and dry habitat
+Moisture,WUD,1,Both,Description indicated association with both wet and dry habitat
+Moisture,W,1352,Mesic-associated,Description only indicated association with mesic habitat
+Moisture,UW,574,Mesic-associated,"Description indicated association with mesic habitat, but didn't exclude other conditions"
+Moisture,WU,27,Mesic-associated,"Description indicated association with mesic habitat, but didn't exclude other conditions"
+Moisture,U,7931,Unspecified,No information about moisture associations
+Moisture,D,937,Xeric-associated,Description only indicated association with xeric habitat
+Moisture,DU,260,Xeric-associated,"Description indicated association with xeric habitat, but didn't exclude other conditions"
+Moisture,UD,29,Xeric-associated,"Description indicated association with xeric habitat, but didn't exclude other conditions"
