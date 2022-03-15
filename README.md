@@ -19,8 +19,7 @@ LepTraits
 |   │   figures.r     # R code used to generate figures for the data paper.
 |   └───miscData      # .csv files used to create figures for the manuscript
 │       | book_data.csv
-|       | name_data.csv
-|       | record_data.csv
+|       
 |
 └───records
 |   │   records.csv   # Record-level traits.
