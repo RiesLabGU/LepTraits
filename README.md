@@ -22,9 +22,9 @@ LepTraits
 |       
 |
 └───records
-|   │   records.csv   # Record-level traits.
-|   |   habitat_recordKey.csv # A key for the codes utilized in habitat affinity scoring.
-
+    │   records.csv   # Record-level traits.
+    |   habitat_recordKey.csv # A key for the codes utilized in habitat affinity scoring.
+    |   habitat_recordDictionary.csv # A dictionary for habitat affinity trait definitions.
 
 ```
 
