@@ -10,7 +10,8 @@ The repository follows a simple directory structure in order to provide data to 
 ```
 LepTraits
 │   README.md         # This document.
-│   Preprint.pdf      # Pre-print of the data paper.
+│ 
+|
 └───consensus
 │   │   consensus.csv # Species-level consensus traits.
 │ 
