@@ -4,7 +4,7 @@ This repository contains the most recently updated trait dataset for LepTraits: 
 
 When using this dataset in your research, please cite the original manuscript as follows:
 
-Shirey, V., Larsen, E., Doherty, A., Kim, C.A., Al-Sulaiman, F.T., Hinolan, J.D., Itliong, M.G.A., Naive, M.A.K., Ku, M., Belitz, M., Jeschke, G., Barve, V., Lamas, G., Kawahara, A.Y., Guralnick, R., Pierce, N.E., Lohman, D.J., and Ries, L. 2022. "LepTraits 1.0: A globally comprehensive dataset of butterfly and moth traits." Pre-print available. 
+Shirey, V., Larsen, E., Doherty, A., Kim, C.A., Al-Sulaiman, F.T., Hinolan, J.D., Itliong, M.G.A., Naive, M.A.K., Ku, M., Belitz, M., Jeschke, G., Barve, V., Lamas, G., Kawahara, A.Y., Guralnick, R., Pierce, N.E., Lohman, D.J., and Ries, L. 2022. "LepTraits 1.0: A globally comprehensive dataset of butterfly traits." Pre-print available. 
 
 The repository follows a simple directory structure in order to provide data to end-users. The directories and their contents are as follows:
 ```
